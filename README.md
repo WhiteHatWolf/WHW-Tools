@@ -60,7 +60,7 @@ MVTool is a fast, lightweight TCP port scanner built in Python with both Command
 ### 1. Clone the Repository
 
 ```bash id="p7y1ht"
-git clone https://github.com/yourusername/mvtool.git
+git clone https://github.com/WhiteHatWolf/WHW-tools.git
 cd mvtool
 ```
 
